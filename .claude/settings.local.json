@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm install:*)",
+      "Bash(npm run:*)",
+      "Bash(gh auth:*)",
+      "Bash(gh repo:*)",
+      "Bash(railway --version)",
+      "Bash(railway login:*)",
+      "Bash(RAILWAY_TOKEN=f1b0662c-1c65-48b1-b6b4-a77bc6b799d1 railway whoami)",
+      "Bash(railway whoami:*)",
+      "Bash(railway --help)"
+    ]
+  }
+}
